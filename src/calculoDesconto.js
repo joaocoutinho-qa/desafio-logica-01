@@ -1,6 +1,6 @@
-function calcularDesconto(valor_da_compra,desconto){
-    const valor_final_da_compra = valor_da_compra - (valor_da_compra*desconto);
-    return valor_final_da_compra;
+function calcularDesconto(valorDaCompra,desconto){
+    const valor_final_da_compra = valorDaCompra - (valorDaCompra, desconto);
+    return valorFinalDaCompra;
 }
 
 module.exports = {
