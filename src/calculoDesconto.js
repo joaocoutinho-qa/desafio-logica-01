@@ -1,5 +1,5 @@
 function calcularDesconto(valorDaCompra,desconto){
-    const valor_final_da_compra = valorDaCompra - (valorDaCompra, desconto);
+    const valorFinalDaCompra = valorDaCompra - (valorDaCompra*desconto);
     return valorFinalDaCompra;
 }
 

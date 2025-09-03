@@ -1,0 +1,27 @@
+{
+  "name": "desafio-logica-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocoutinho-qa/desafio-logica-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaocoutinho-qa/desafio-logica-01/issues"
+  },
+  "homepage": "https://github.com/joaocoutinho-qa/desafio-logica-01#readme",
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  }
+}
